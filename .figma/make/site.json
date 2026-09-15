@@ -1,0 +1,11 @@
+{
+  "title": "Parva Realty",
+  "description": "Explore premium Dubai real estate investments tailored for global investors, featuring luxury properties, expert support, and comprehensive market insights.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
