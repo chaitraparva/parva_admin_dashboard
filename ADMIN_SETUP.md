@@ -49,16 +49,16 @@ cp .env.example .env
   ADMIN_1_PASSWORD_HASH=$2a$12$eLWAdlfI2E/HSJ.ZW6sNR.i257XfyuvcpAtb7glFeepAlJjQIL91W
   ADMIN_1_NAME=Nagesh
 
-  ADMIN_2_EMAIL=chaithra@parvarealty.ae
+  ADMIN_2_EMAIL=chaitra@parvarealty.ae
   ADMIN_2_PASSWORD_HASH=$2a$12$Fnrs6t4of3Jj906sFGFnQOALycvGT9Z/zKrIl/jOtKqUAIe2wojn6
-  ADMIN_2_NAME=Chaithra
+  ADMIN_2_NAME=Chaitra
 
   ADMIN_3_EMAIL=sushma@diagofinance.com
   ADMIN_3_PASSWORD_HASH=$2a$12$gpFYMx4zGobhjDDXzuthdOF1YNrGMUOkaU7Mt.GP669G3J/4Nnk5O
   ADMIN_3_NAME=Sushma
   ```
 
-  These hashes correspond to `Nagesh@2026`, `Chaithra@2026`, and
+  These hashes correspond to `Nagesh@2026`, `Chaitra@2026`, and
   `Sushma@2026` respectively — the plain passwords themselves are never
   stored anywhere, only these one-way hashes. If you ever need to change
   someone's password, generate a new hash with:
